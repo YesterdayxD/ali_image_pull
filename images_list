@@ -1,0 +1,7 @@
+quay.io/calico/node:v3.24.5
+quay.io/calico/cni:v3.24.5
+quay.io/calico/pod2daemon-flexvol:v3.24.5
+quay.io/calico/kube-controllers:v3.24.5
+quay.io/calico/apiserver:v3.24.5
+quay.io/calico/typha:v3.24.5
+quay.io/calico/wwwkube-controllers:v3.24.5
