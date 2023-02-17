@@ -1,4 +1,4 @@
-registry.k8s.io/kube-proxy:latest<registry.cn-hangzhou.aliyuncs.com/limk/test:kube-proxy-latest
+registry.k8s.io/kube-proxy:v1.25.6<registry.cn-hangzhou.aliyuncs.com/limk/test:kube-proxy-v1.25.6
 registry.k8s.io/pause:3.8<registry.cn-hangzhou.aliyuncs.com/limk/test:pause-3.8
 registry.k8s.io/coredns/coredns:v1.9.3<registry.cn-hangzhou.aliyuncs.com/limk/test:coredns-v1.9.3
 registry.k8s.io/dns/k8s-dns-node-cache:1.21.1<registry.cn-hangzhou.aliyuncs.com/limk/test:k8s-dns-node-cache-1.21.1
