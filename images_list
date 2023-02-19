@@ -1,5 +1,4 @@
 registry.k8s.io/conformance:v1.25.6<registry.cn-hangzhou.aliyuncs.com/limk/test:conformance-v1.25.6
 sonobuoy/sonobuoy:v0.56.15<registry.cn-hangzhou.aliyuncs.com/limk/test:sonobuoy-v0.56.15
 sonobuoy/systemd-logs:v0.4<registry.cn-hangzhou.aliyuncs.com/limk/test:systemd-logs-v0.4
-docker.io/alpine/socat:1.7.4.3-r0
-gcr.io/authenticated-image-pulling/alpine:3.7<registry.cn-hangzhou.aliyuncs.com/limk/test:alpine-3.7
+registry.k8s.io/e2e-test-images/busybox:1.29-2<registry.cn-hangzhou.aliyuncs.com/limk/test:busybox-1.29-2

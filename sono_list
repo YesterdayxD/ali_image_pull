@@ -1,3 +1,8 @@
+docker.io/alpine/socat:1.7.4.3-r0
+gcr.io/authenticated-image-pulling/alpine:3.7<registry.cn-hangzhou.aliyuncs.com/limk/test:alpine-3.7
+
+
+
 
 gcr.io/authenticated-image-pulling/alpine:3.7
 gcr.io/authenticated-image-pulling/windows-nanoserver:v1
