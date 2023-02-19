@@ -1,0 +1,1 @@
+from gcr.io/authenticated-image-pulling/alpine:3.7
