@@ -1,1 +1,3 @@
 registry.k8s.io/conformance:v1.25.6<registry.cn-hangzhou.aliyuncs.com/limk/test:conformance-v1.25.6
+sonobuoy/sonobuoy:v0.56.15<registry.cn-hangzhou.aliyuncs.com/limk/test:sonobuoy/sonobuoy/sonobuoy:v0.56.15<registry.cn-hangzhou.aliyuncs.com/limk/test:sonobuoy/systemd-logs-v0.4
+sonobuoy/systemd-logs:v0.4<registry.cn-hangzhou.aliyuncs.com/limk/test:sonobuoy/systemd-logs-v0.4
