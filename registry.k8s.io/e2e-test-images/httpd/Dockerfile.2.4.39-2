@@ -1,0 +1,1 @@
+from registry.k8s.io/e2e-test-images/httpd:2.4.39-2
